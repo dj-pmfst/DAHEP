@@ -1,0 +1,10 @@
+[2025-10-31T06:55:47.044Z] Validating found git in: git
+[2025-10-31T06:55:47.121Z] Using git 1.8.3.1 from git
+[2025-10-31T06:55:47.272Z] > git rev-parse --git-dir [51ms]
+[2025-10-31T06:55:47.285Z] Open repository: /home/djuric
+[2025-10-31T06:55:48.208Z] > git ls-files --stage -- /home/djuric/DataAnalysisHEP_venv/vjezbe2/zadatak1/root.py [3ms]
+[2025-10-31T06:55:57.896Z] > git symbolic-ref --short HEAD [2ms]
+[2025-10-31T06:55:57.910Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [2ms]
+[2025-10-31T06:55:57.935Z] > git remote --verbose [2ms]
+[2025-10-31T06:55:57.936Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2025-10-31T06:56:03.873Z] > git config --get commit.template [26ms]

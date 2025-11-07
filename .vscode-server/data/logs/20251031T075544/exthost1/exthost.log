@@ -1,0 +1,17 @@
+[2025-10-31 07:55:45.980] [exthost] [info] Extension host with pid 11675 started
+[2025-10-31 07:55:46.023] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Lock acquired.
+[2025-10-31 07:55:46.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-10-31 07:55:46.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2025-10-31 07:55:46.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-10-31 07:55:46.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2025-10-31 07:55:46.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-10-31 07:55:47.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-31 07:55:47.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-31 07:55:47.195] [exthost] [info] Eager extensions activated
+[2025-10-31 07:55:47.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-31 07:55:47.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-31 07:55:48.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-31 07:55:58.332] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2025-10-31 09:26:03.817] [exthost] [info] extension host terminating: received terminate message from renderer
+[2025-10-31 09:26:03.818] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2025-10-31 09:26:03.854] [exthost] [info] Extension host with pid 11675 exiting with code 0

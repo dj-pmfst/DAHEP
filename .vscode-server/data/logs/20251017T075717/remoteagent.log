@@ -1,0 +1,25 @@
+[2025-10-17 07:57:17.286] [remoteagent] [info] Extension host agent started.
+[2025-10-17 07:57:17.461] [remoteagent] [info] [127.0.0.1][1285dc92][ManagementConnection] New connection established.
+[2025-10-17 07:57:17.540] [remoteagent] [info] [127.0.0.1][095f5056][ExtensionHostConnection] New connection established.
+[2025-10-17 07:57:17.550] [remoteagent] [info] [127.0.0.1][095f5056][ExtensionHostConnection] <26086> Launched Extension Host Process.
+[2025-10-17 07:57:21.509] [remoteagent] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2025-10-17 07:57:21.674] [remoteagent] [info] Installing extension: ms-vscode.js-debug-companion
+[2025-10-17 07:57:22.464] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-companion /home/djuric/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.18
+[2025-10-17 07:57:22.504] [remoteagent] [info] Extracted extension to /home/djuric/.vscode-server/extensions/.4db9df61-ed8a-4b0d-9510-4d6d478f96be: ms-vscode.js-debug-companion
+[2025-10-17 07:57:22.529] [remoteagent] [info] Renamed to /home/djuric/.vscode-server/extensions/ms-vscode.js-debug-companion-1.0.18
+[2025-10-17 07:57:22.531] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-companion
+[2025-10-17 07:57:22.590] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2025-10-17 08:06:25.573] [remoteagent] [info] [127.0.0.1][1285dc92][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-10-17 08:06:25.610] [remoteagent] [info] [127.0.0.1][095f5056][ExtensionHostConnection] <26086> Extension Host Process exited with code: 0, signal: null.
+[2025-10-17 08:06:25.611] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-10-17 08:06:34.888] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-10-17 08:06:34.889] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-10-17 08:06:35.212] [remoteagent] [info] [127.0.0.1][1b356dc5][ManagementConnection] New connection established.
+[2025-10-17 08:06:35.365] [remoteagent] [info] [127.0.0.1][f5fc4d04][ExtensionHostConnection] New connection established.
+[2025-10-17 08:06:35.406] [remoteagent] [info] [127.0.0.1][f5fc4d04][ExtensionHostConnection] <27656> Launched Extension Host Process.
+[2025-10-17 08:11:34.890] [remoteagent] [info] New EH opened, aborting shutdown
+[2025-10-17 09:20:23.672] [remoteagent] [info] [127.0.0.1][1b356dc5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2025-10-17 12:20:29.098] [remoteagent] [info] [127.0.0.1][f5fc4d04][ExtensionHostConnection] <27656> Extension Host Process exited with code: 0, signal: null.
+[2025-10-17 12:20:29.099] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-10-17 12:20:33.495] [remoteagent] [info] [127.0.0.1][1b356dc5][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2025-10-17 12:25:29.100] [remoteagent] [info] Last EH closed, shutting down

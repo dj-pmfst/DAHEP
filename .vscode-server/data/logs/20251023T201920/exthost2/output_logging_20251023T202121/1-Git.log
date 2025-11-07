@@ -1,0 +1,22 @@
+[2025-10-23T18:21:21.842Z] Validating found git in: git
+[2025-10-23T18:21:21.921Z] Using git 1.8.3.1 from git
+[2025-10-23T18:21:22.055Z] > git rev-parse --git-dir [43ms]
+[2025-10-23T18:21:22.068Z] Open repository: /home/djuric
+[2025-10-23T18:21:22.203Z] > git symbolic-ref --short HEAD [5ms]
+[2025-10-23T18:21:22.222Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [7ms]
+[2025-10-23T18:21:22.250Z] > git remote --verbose [3ms]
+[2025-10-23T18:21:22.250Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2025-10-23T18:21:25.367Z] > git config --get commit.template [42ms]
+[2025-10-23T18:21:27.080Z] > git ls-files --stage -- /home/djuric/vjezbe1/zadatak2/main.py [3ms]
+[2025-10-23T18:21:28.603Z] > git ls-files --stage -- /home/djuric/vjezbe1/zadatak2/classdef.py [3ms]
+[2025-10-23T18:47:56.975Z] > git ls-files --stage -- /home/djuric/vjezbe1/.vscode/settings.json [5ms]
+[2025-10-23T18:47:57.712Z] > git symbolic-ref --short HEAD [3ms]
+[2025-10-23T18:47:57.730Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [4ms]
+[2025-10-23T18:47:57.763Z] > git remote --verbose [4ms]
+[2025-10-23T18:47:57.763Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2025-10-23T18:48:03.104Z] > git config --get commit.template [14ms]
+[2025-10-23T18:48:08.220Z] > git symbolic-ref --short HEAD [2ms]
+[2025-10-23T18:48:08.240Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [2ms]
+[2025-10-23T18:48:08.288Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2025-10-23T18:48:08.293Z] > git remote --verbose [7ms]
+[2025-10-23T18:48:13.333Z] > git config --get commit.template [13ms]

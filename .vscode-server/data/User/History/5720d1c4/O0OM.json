@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "[python]": {
+    
+    },
+    "remote.SSH.remotePlatform": {
+        "symmetry.pmfst.hr": "linux"
+    }
+}

@@ -1,0 +1,24 @@
+[2025-10-30 16:30:21.110] [remoteagent] [info] Extension host agent started.
+[2025-10-30 16:30:21.372] [remoteagent] [info] [127.0.0.1][3f34fbec][ManagementConnection] New connection established.
+[2025-10-30 16:30:21.374] [remoteagent] [info] [127.0.0.1][559f1f9f][ExtensionHostConnection] New connection established.
+[2025-10-30 16:30:21.386] [remoteagent] [info] [127.0.0.1][559f1f9f][ExtensionHostConnection] <28080> Launched Extension Host Process.
+[2025-10-30 16:30:23.240] [remoteagent] [error] ["Error: Could not find pty on pty host","    at C._throwIfNoPty (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:5336)","    at C.updateTitle (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:20:1676)","    at Object.call (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:13:8332)","    at E.onPromise (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4867)","    at E.onRawMessage (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:4262)","    at /home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:12:3554","    at L.invoke (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at l.fire (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:8:1856)","    at process.U (/home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/platform/terminal/node/ptyHostMain.js:6:34661)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2025-10-30 16:49:31.440] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: basic_string::_S_create (EUNKNOWN) (path: /home/djuric/DataAnalysisHEP_venv)
+[2025-10-30 16:49:31.441] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: basic_string::_S_create
+[2025-10-30 16:49:34.580] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/djuric/DataAnalysisHEP_venv)
+[2025-10-30 16:49:34.580] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2025-10-30 17:46:31.352] [remoteagent] [info] [127.0.0.1][3f34fbec][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2025-10-30 20:30:15.695] [remoteagent] [info] [127.0.0.1][559f1f9f][ExtensionHostConnection] <28080> Extension Host Process exited with code: 0, signal: null.
+[2025-10-30 20:30:15.697] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-10-30 20:34:55.110] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-10-30 20:34:55.110] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-10-30 20:34:55.259] [remoteagent] [info] [127.0.0.1][3f34fbec][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2025-10-30 20:34:55.260] [remoteagent] [info] [127.0.0.1][6fd3964d][ManagementConnection] New connection established.
+[2025-10-30 20:34:55.312] [remoteagent] [info] [127.0.0.1][d55ad2fa][ExtensionHostConnection] New connection established.
+[2025-10-30 20:34:55.324] [remoteagent] [info] [127.0.0.1][d55ad2fa][ExtensionHostConnection] <17669> Launched Extension Host Process.
+[2025-10-30 20:39:55.111] [remoteagent] [info] New EH opened, aborting shutdown
+[2025-10-30 20:39:55.438] [remoteagent] [info] [127.0.0.1][3f34fbec][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2025-10-30 21:21:01.096] [remoteagent] [info] [127.0.0.1][6fd3964d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-10-30 21:21:01.146] [remoteagent] [info] [127.0.0.1][d55ad2fa][ExtensionHostConnection] <17669> Extension Host Process exited with code: 0, signal: null.
+[2025-10-30 21:21:01.146] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-10-30 21:26:01.147] [remoteagent] [info] Last EH closed, shutting down

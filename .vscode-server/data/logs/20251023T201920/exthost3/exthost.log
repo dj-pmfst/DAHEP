@@ -1,0 +1,21 @@
+[2025-10-23 20:57:25.205] [exthost] [info] Extension host with pid 9454 started
+[2025-10-23 20:57:25.208] [exthost] [error] Error: EEXIST: file already exists, open '/home/djuric/.vscode-server/data/User/workspaceStorage/23e6fa8e36bf162a8b59e7291c245d96/vscode.lock'
+[2025-10-23 20:57:25.210] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/23e6fa8e36bf162a8b59e7291c245d96/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2025-10-23 20:57:25.213] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/23e6fa8e36bf162a8b59e7291c245d96/vscode.lock': The lock does not look stale, elapsed: 472 ms, giving up.
+[2025-10-23 20:57:25.244] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/23e6fa8e36bf162a8b59e7291c245d96-1/vscode.lock': Lock acquired.
+[2025-10-23 20:57:25.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-10-23 20:57:25.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2025-10-23 20:57:25.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-10-23 20:57:25.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2025-10-23 20:57:25.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-10-23 20:57:25.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-23 20:57:25.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-23 20:57:25.748] [exthost] [info] Eager extensions activated
+[2025-10-23 20:57:26.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4742
+[2025-10-23 20:57:29.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-23 20:57:29.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-23 20:57:29.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-23 21:25:28.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2025-10-23 21:42:02.769] [exthost] [info] extension host terminating: received terminate message from renderer
+[2025-10-23 21:42:02.770] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/23e6fa8e36bf162a8b59e7291c245d96-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2025-10-23 21:42:02.800] [exthost] [info] Extension host with pid 9454 exiting with code 0

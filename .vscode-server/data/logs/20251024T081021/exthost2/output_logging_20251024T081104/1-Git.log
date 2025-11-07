@@ -1,0 +1,9 @@
+[2025-10-24T06:11:05.209Z] Validating found git in: git
+[2025-10-24T06:11:05.281Z] Using git 1.8.3.1 from git
+[2025-10-24T06:11:05.370Z] > git rev-parse --git-dir [44ms]
+[2025-10-24T06:11:05.382Z] Open repository: /home/djuric
+[2025-10-24T06:11:05.496Z] > git symbolic-ref --short HEAD [3ms]
+[2025-10-24T06:11:05.518Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [11ms]
+[2025-10-24T06:11:05.542Z] > git remote --verbose [3ms]
+[2025-10-24T06:11:05.542Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2025-10-24T06:11:08.642Z] > git config --get commit.template [37ms]

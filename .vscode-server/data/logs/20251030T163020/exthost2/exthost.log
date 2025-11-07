@@ -1,0 +1,20 @@
+[2025-10-30 20:34:56.281] [exthost] [info] Extension host with pid 17669 started
+[2025-10-30 20:34:56.333] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Lock acquired.
+[2025-10-30 20:34:56.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-10-30 20:34:56.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2025-10-30 20:34:56.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-10-30 20:34:56.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2025-10-30 20:34:56.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-10-30 20:34:56.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-30 20:34:56.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-30 20:34:56.888] [exthost] [info] Eager extensions activated
+[2025-10-30 20:34:57.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-30 20:34:57.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-30 20:34:57.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2025-10-30 20:34:57.877] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9074
+[2025-10-30 20:35:41.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9284
+[2025-10-30 20:35:57.132] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9285
+[2025-10-30 20:45:28.351] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 11241
+[2025-10-30 21:21:01.093] [exthost] [info] extension host terminating: received terminate message from renderer
+[2025-10-30 21:21:01.094] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2025-10-30 21:21:01.125] [exthost] [info] Extension host with pid 17669 exiting with code 0

@@ -1,0 +1,14 @@
+[2025-10-24 08:11:04.224] [exthost] [info] Extension host with pid 28356 started
+[2025-10-24 08:11:04.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-10-24 08:11:04.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2025-10-24 08:11:04.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-10-24 08:11:04.361] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Lock acquired.
+[2025-10-24 08:11:04.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-10-24 08:11:04.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-24 08:11:04.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-10-24 08:11:04.538] [exthost] [info] Eager extensions activated
+[2025-10-24 08:11:05.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2025-10-24 08:11:05.745] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4757
+[2025-10-24 08:13:50.242] [exthost] [info] extension host terminating: received terminate message from renderer
+[2025-10-24 08:13:50.244] [exthost] [info] Lock '/home/djuric/.vscode-server/data/User/workspaceStorage/9b242f2ebf2bdc2b3aa251f745ca34eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2025-10-24 08:13:50.265] [exthost] [info] Extension host with pid 28356 exiting with code 0
