@@ -1,0 +1,9 @@
+[2025-11-13 07:39:42.092] [remoteagent] [info] Extension host agent started.
+[2025-11-13 07:39:42.356] [remoteagent] [info] [127.0.0.1][cf2bed67][ManagementConnection] New connection established.
+[2025-11-13 07:39:42.397] [remoteagent] [info] [127.0.0.1][ed3230a4][ExtensionHostConnection] New connection established.
+[2025-11-13 07:39:42.409] [remoteagent] [info] [127.0.0.1][ed3230a4][ExtensionHostConnection] <14792> Launched Extension Host Process.
+[2025-11-13 09:08:57.434] [remoteagent] [info] [127.0.0.1][cf2bed67][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2025-11-13 12:09:00.755] [remoteagent] [info] [127.0.0.1][ed3230a4][ExtensionHostConnection] <14792> Extension Host Process exited with code: 0, signal: null.
+[2025-11-13 12:09:00.755] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-11-13 12:09:05.948] [remoteagent] [info] [127.0.0.1][cf2bed67][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2025-11-13 12:14:00.756] [remoteagent] [info] Last EH closed, shutting down

@@ -5,13 +5,13 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:36484 (IPv4)
-Extension host agent listening on 36484
+Server bound to 127.0.0.1:38885 (IPv4)
+Extension host agent listening on 38885
 
-[07:55:44] Extension host agent started.
-[07:55:44] [127.0.0.1][32a31a11][ManagementConnection] New connection established.
-[07:55:44] [127.0.0.1][d7c45f0c][ExtensionHostConnection] New connection established.
-[07:55:44] [127.0.0.1][d7c45f0c][ExtensionHostConnection] <11675> Launched Extension Host Process.
+[18:44:37] Extension host agent started.
+[18:44:37] [127.0.0.1][5b479183][ManagementConnection] New connection established.
+[18:44:37] [127.0.0.1][8acbb310][ExtensionHostConnection] New connection established.
+[18:44:37] [127.0.0.1][8acbb310][ExtensionHostConnection] <18106> Launched Extension Host Process.
 Overwriting extension /home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/extensions/ms-vscode.js-debug-companion with /home/djuric/.vscode-server/extensions/ms-vscode.js-debug-companion-1.0.18.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
@@ -74,9 +74,3 @@ Overwriting extension /home/djuric/.vscode-server/bin/e18005f0f1b33c29e81d732535
     'exit 0'
 ]
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/bash" and args []
-[09:26:03] [127.0.0.1][32a31a11][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[09:26:03] [127.0.0.1][d7c45f0c][ExtensionHostConnection] <11675> Extension Host Process exited with code: 0, signal: null.
-Last EH closed, waiting before shutting down
-[09:26:03] Last EH closed, waiting before shutting down
-Last EH closed, shutting down
-[09:31:03] Last EH closed, shutting down

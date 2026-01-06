@@ -138,3 +138,111 @@ home/public/data/ggH125/ZZ4lAnalysis.root
 cd ~
 home/public/data/ggH125/ZZ4lAnalysis.root
 root home/public/data/ggH125/ZZ4lAnalysis.root
+python3 -m venv DataAnalysisHEP_venv/
+source DataAnalysisHEP_venv/bin/activate
+git status
+git remote -v
+git clone git@github.com:dj-pmfst/DAHEP.git
+git remote -v
+git status
+git add .
+git commit -m "commit"
+git push origin main
+git switch main
+source DataAnalysisHEP_venv/bin/activate
+git status
+git add .
+git status
+git commit -m "commit"
+git push 
+git remote add https://github.com/dj-pmfst/DAHEP
+git remote
+git remote add origin git@github.com:dj-pmfst/DAHEP.git
+git remote
+git push origin master
+git init
+git add .
+git commit -m "commit"
+git reset HEAD~
+git status
+git switch DataAnalysisHEP_venv/
+cd DataAnalysisHEP_venv/
+git add vjezbe1
+git add vjezbe2
+git commit -m "commit"
+git status
+git remote -v
+git remote add origin https://github.com/dj-pmfst/DAHEP
+git remote -v
+git push -u origin main
+git status
+git push -u origin main
+git push -u origin master
+git branch
+git add vjezbe1
+git add vjezbe2
+git commit -m "commit"
+git status
+git switch main
+git checkout main
+git checkout -b main
+git add vjezbe1
+git add vjezbe2
+git commit -m "commit"
+git status
+it add main.py
+git add main.py
+git rev-parse --show-toplevel
+git check-ignore -v *
+git add -A
+git status
+git branch
+git rev-parse --show-toplevel
+ls -R
+git status
+git reset
+git rm -r --cached .
+git add vjezbe1 vjezbe2
+git status
+git add vjezbe1 vjezbe2
+git status
+git rm -r --cached .
+touch .gitignore
+git add vjezbe1 vjezbe2
+git status
+git commit -m "commit"
+git push origin main 
+git pull origin main
+git log --oneline --graph --decorate --all -5
+git push origin main
+source DataAnalysisHEP_venv/bin/activate
+cd vjezbe5
+ls
+cd DataAnalysisHEP_venv/vjezbe5
+python3 zadatak1.py
+python3 zadataci.py
+python3 zadaci.py
+ls
+cd DataAnalysisHEP_venv/
+ls
+git status
+git add .
+git commit -m 'exercises 5'
+git push origin main
+git status
+git init
+git remote add origin https://github.com/dj-pmfst/DAHEP.git
+git remote -v
+git push -u origin main
+git status
+git add .
+git commit 
+source DataAnalysisHEP_venv/bin/activate
+git add .
+git commit 
+source DataAnalysisHEP_venv/bin/activate
+python3 zadaci.py
+ls
+cd DataAnalysisHEP_venv/
+cd vjezbe5
+python3 zadaci.py
